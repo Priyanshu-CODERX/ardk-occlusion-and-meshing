@@ -39,4 +39,4 @@ Make sure to use Unity 2020 or higher versions for this project to work properly
 *  [Building For Android](https://lightship.dev/docs/ardk/ardk_fundamentals/building_android.html#doxid-building-android)
 
 ## 💡 Meshing and Occlusion
-[![Demo Video](./images/demo.jpg)](https://youtube.com/shorts/HzGkJb34OBA?feature=share)
+[![Demo Video](./images/demo.jpeg)](https://youtube.com/shorts/HzGkJb34OBA?feature=share)
